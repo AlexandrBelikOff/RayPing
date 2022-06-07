@@ -1,0 +1,4 @@
+Speedtest: www.speedtest.net
+Yandex: ya.ru
+Google: Google.ru
+Mail: mail.ru
